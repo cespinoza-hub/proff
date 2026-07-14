@@ -1,0 +1,8 @@
+<resources>
+    <color name="purple_700">#4527A0</color>
+    <color name="purple_500">#673AB7</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ic_launcher_background">#4527A0</color>
+</resources>
